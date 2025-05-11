@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mainul-islam-07&label=Profile%20views&color=0e75b6&style=flat" alt="mainul-islam-07" /> </p>
 
-- 🔭 I’m currently working on **License Plate Detection**
+- 🔭 I’m currently working on **Edge.AI and related topics**
 
 - 🌱 I’m currently learning **Modbus and similiar communication protocol**
 
 - 👯 I’m looking to collaborate on **Iot projects using Esp32 , Stm32, Lora**
 
-- 🤝 I’m looking for help with **Analogue Buck Converter with feedback**
+- 🤝 I’m looking for help with **ROS2 Humble in making good projects**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/mainulislam](https://sites.google.com/view/mainulislam)
 
